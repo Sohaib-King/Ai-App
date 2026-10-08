@@ -1,0 +1,6 @@
+{
+  "name": "Aura AI Mobile",
+  "description": "Aura AI intelligent assistant with hybrid offline router, Gemini AI engine, and Android APK deployment hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

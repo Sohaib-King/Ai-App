@@ -1,0 +1,17 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.AuraAI" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/aura_cyan</item>
+        <item name="colorPrimaryVariant">@color/aura_indigo</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/aura_purple</item>
+        <item name="colorSecondaryVariant">@color/aura_violet</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">@color/aura_bg_dark</item>
+        <item name="android:navigationBarColor">@color/aura_bg_dark</item>
+        <item name="android:windowBackground">@color/aura_bg_dark</item>
+    </style>
+</resources>

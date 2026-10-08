@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aura AI</string>
+    <string name="offline_mode">Offline Engine Active</string>
+    <string name="hybrid_mode">Hybrid AI Mode</string>
+    <string name="cloud_mode">Gemini Cloud Mode</string>
+    <string name="chat_hint">Ask Aura anything or speak...</string>
+    <string name="listening">Listening to voice...</string>
+</resources>

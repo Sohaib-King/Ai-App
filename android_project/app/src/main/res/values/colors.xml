@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="aura_cyan">#06B6D4</color>
+    <color name="aura_indigo">#6366F1</color>
+    <color name="aura_purple">#A855F7</color>
+    <color name="aura_violet">#7C3AED</color>
+    <color name="aura_bg_dark">#0F172A</color>
+    <color name="aura_surface_dark">#1E293B</color>
+    <color name="aura_card_dark">#334155</color>
+    <color name="white">#FFFFFF</color>
+    <color name="aura_emerald">#10B981</color>
+    <color name="aura_amber">#F59E0B</color>
+    <color name="aura_rose">#F43F5E</color>
+</resources>
